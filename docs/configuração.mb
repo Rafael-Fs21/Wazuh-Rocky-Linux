@@ -41,3 +41,4 @@ O agente envia logs para o servidor Wazuh, que:
 * Aplica regras
 * Gera alertas
 
+
